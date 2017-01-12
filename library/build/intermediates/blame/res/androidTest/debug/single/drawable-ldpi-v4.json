@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/KyuhoLee/Documents/Android/ToDoList/library/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/button_checked.png",
+        "source": "/Users/KyuhoLee/Documents/Android/ToDoList/library/build/intermediates/bundles/debug/res/drawable-ldpi-v4/button_checked.png"
+    },
+    {
+        "merged": "/Users/KyuhoLee/Documents/Android/ToDoList/library/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/button_unchecked.png",
+        "source": "/Users/KyuhoLee/Documents/Android/ToDoList/library/build/intermediates/bundles/debug/res/drawable-ldpi-v4/button_unchecked.png"
+    }
+]
